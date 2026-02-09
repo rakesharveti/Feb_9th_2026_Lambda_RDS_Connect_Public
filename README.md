@@ -1,6 +1,11 @@
 # Feb_9th_2026_Lambda_RDS_Connect_Public
 Lambda-RDS Connect and Create DB and Table
 
+Lambda Successful Execution:
+https://github.com/rakesharveti/Feb_9th_2026_Lambda_RDS_Connect_Public/blob/main/Lambda-rds-execution-image.PNG
+
+Lambda Logs for created DB and Table:
+https://github.com/rakesharveti/Feb_9th_2026_Lambda_RDS_Connect_Public/blob/main/CloudWatchLogs_DB_Table_Created_Proof.PNG
 
 🚀 AWS Lambda + RDS (MySQL) Public Connection Setup
 
