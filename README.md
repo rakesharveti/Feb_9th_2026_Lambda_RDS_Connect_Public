@@ -222,3 +222,22 @@ Created and attached PyMySQL Layer
 Configured environment variables
 
 Successfully connected Lambda to RDS
+
+
+
+🧪 Verify DB & Table (CloudShell)
+
+After Lambda runs successfully, validate from CloudShell:
+
+Connect to RDS
+mysql -h your-rds-endpoint -u your_db_user -p
+
+Check Database
+SHOW DATABASES;
+USE your_db_name;
+
+Check Table
+SHOW TABLES;
+
+
+✅ If the database and table appear, Lambda → RDS connection is working correctly.
